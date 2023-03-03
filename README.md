@@ -2,7 +2,7 @@
 # https://rosemary-restaurant.netlify.app/
 
 ### Before Starting
-# npm install
+### npm install
 
 ### `npm start`
 
