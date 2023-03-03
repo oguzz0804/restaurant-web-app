@@ -1,6 +1,9 @@
 ### LIVE
 # https://rosemary-restaurant.netlify.app/
 
+### Before Starting
+# npm install
+
 ### `npm start`
 
 Runs the app in the development mode.\
